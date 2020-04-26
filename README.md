@@ -3,9 +3,11 @@ Petit programme pour créer une aventure en texte.
 
 # Preérequis
 dotnet core 3.1 sdk
+
 https://dotnet.microsoft.com/download/dotnet-core/3.1
 
 git
+
 https://git-scm.com/download/win
 
 # Comment compiler?
@@ -25,6 +27,7 @@ Simplement utiliser la commande suivante:
 `dotnet run`
 
 # Comment partager?
+Utiliser la commande suivante:
 
 `dotnet publish -r win-x64 --self-contained=false /p:PublishSingleFile=true -p:PublishDir=.\publish -c release`
 
