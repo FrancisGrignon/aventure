@@ -11,7 +11,6 @@ git
 https://git-scm.com/download/win
 
 # Comment compiler?
-
 Ouvrez un l'invite de commande et tapez:
 
 ``` 
@@ -21,7 +20,6 @@ dotnet build
 ```
 
 # Comment executer?
-
 Simplement utiliser la commande suivante:
 
 `dotnet run`
@@ -34,7 +32,6 @@ Utiliser la commande suivante:
 Votre programme se trouve dans le dossier "publish". Vous pouvez garder seulement le fichier aventure.exe. Le second fichier sert à débugger l'application.
 
 # Comment modifier l'aventure?
-
 Ouvrir le fichier `Program.cs` avec votre éditeur de texte préféré et modifier votre aventure. Puis exécuter votre commande à nouveau, ce n'est pas nécessaire de compiler à nouveau.
 
 `dotnet run`
