@@ -35,4 +35,6 @@ Votre programme se trouve dans le dossier "publish". Vous pouvez garder seulemen
 
 # Comment modifier l'aventure?
 
-Ouvrir le fichier `Program.cs` avec votre éditeur de texte préféré et modifier votre aventure.
+Ouvrir le fichier `Program.cs` avec votre éditeur de texte préféré et modifier votre aventure. Puis exécuter votre commande à nouveau, ce n'est pas nécessaire de compiler à nouveau.
+
+`dotnet run`
